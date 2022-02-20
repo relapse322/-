@@ -1,0 +1,12 @@
+h1{
+text-align:left;
+font-family: "Arial", Bold;
+font-style: italic;  
+font-size: 24pt;
+}
+.underline {
+border-bottom: 1pt solid;
+}
+html {
+background: url(fon2.jpg);
+}

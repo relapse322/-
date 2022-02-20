@@ -1,0 +1,16 @@
+h1{
+text-align:center;
+font-family: "Monotype Corsiva", Bold; 
+font-weight: bold;
+font-size: 24pt;
+}
+.underline {
+border-bottom: 1pt solid;
+}
+html {
+background: url(fon1.jpg) no-repeat center center fixed;
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+}
